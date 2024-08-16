@@ -1,0 +1,6 @@
+	Potansiyometre, direnci ayarlanabilir bir elektrik bileşeni ve temel bir elektronik parçadır. Genellikle, dönen bir mil veya kayan bir kontak yoluyla değişken direnç değerleri sağlamak için kullanılır.
+	
+	Potansiyometreler,sinyalleri kontrol etmek, giriş ayarlamak veya cihazlar arasındaki gerilimi değiştirmek için geniş bir yelpazede elektronik ve elektrik uygulamalarında kullanılır.
+
+	Potansiyometreler, direnç değişiminin doğasına göre lineer ve logaritmik(ses) olmak üzere ikiye ayrılır.
+Lineer potansiyometreler, mekanik hareket ile orantılı olarak direnci eşit oranda değiştirirken, logaritmik potansiyometreler, ses uygulamalrında kullanılır ve insan kulağının algılamasına daha uygun bir ses seviyesi ayarı sağlar
