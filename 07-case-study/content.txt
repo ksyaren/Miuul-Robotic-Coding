@@ -1,0 +1,7 @@
+* Bir interaktif sergi için ziyaretçi etkileşimini arttırmak amacıyla bir LED sıralayıcı tasarlanacak. Bu sıralayıcı, ziyaretçilerin butona bastığı zamanlarda farklı bir davranış sergileyecek.
+
+* Arduino Uno kullanarak, bir buton 5 adet LED'den oluşan basit bir sıralayıcı devre tasarlanacak. Devre kullanıcı butona bastığında ve bıraktığında farklı sıralarda LED'leri yakmalıdır.
+
+1- Buton bağlantısı Pull-Down dirençli olması gerekmektedir.
+
+2- Butona basılı olmadığında LED'ler soldan sağa soğru sırasıyla yanmalıdır.
