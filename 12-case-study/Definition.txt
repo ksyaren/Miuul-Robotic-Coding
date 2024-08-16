@@ -1,0 +1,8 @@
+	Arduino Uno kullanarak, sıcaklık arttığında devreye giren ve sıcaklık düştükçe duran bir soğutma sistemi tasarlanacak.
+
+Notlar:
+
+1- Sıcaklık sensörü:LM35
+2- Kırmızı led: Sıcaklık belirli bir seviyenin üzerine çıktığında yanar.
+3- DC Motor(PWM kontrollü) soğutma amacıyla devreye girer. Sıcaklık arttıkça motorun hızı artar, sıcaklık düştükçe yavaşlar ve durur.
+4- PWM kontrollü arduino'nun PWM pinlerini kullanarak motorun hızını kontrol eder.
